@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedElementActivityTransition</string>
+    <string name="transition_string">elemento_compartido</string>
+</resources>
